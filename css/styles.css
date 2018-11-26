@@ -1,0 +1,54 @@
+/* my Styles.css */
+
+body {
+    background-color: DodgerBlue;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h2 h4 {
+    color: navy;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+p {
+    text-align: justify;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+<img src="images/002_gps_map_ratuview.jpg" alt="Road Trip Map Snapshot">
+<img src="images/003_planning.jpg" alt="planning">
