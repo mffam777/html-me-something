@@ -1,7 +1,10 @@
 # Comment: this files extenssion will not be considered for this 
+
 # project. They contain resources information and rougth draft for 
 # the html-me-something project.
  
 *.docx
 *.pdf
+*.vscode
+
 
